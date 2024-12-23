@@ -1,1 +1,24 @@
 
+Classes	and Inheritance	: 10
+Great use of a superclass. Excellent!
+
+Encapsulation : 10
+Good use of private fields with appropriate getters and setters.
+
+Polymorphism : 10
+Good use of Staff superclass to allow for polymorphic handling of draw method.
+
+Exceptions and Error handling : 6
+Exception are only rethrown and not halting the programme/providing a fallback
+
+Organization : 10
+Classes are well grouped under the members package.
+
+Attempt : 6
+Good functionality implemented but no continuous loop for dyanmic updates used.
+
+Flexibility for Future : 10
+Efficient use of ArrayLists to allow for extensibility in the future.
+
+Alerts : 5
+Basic alert methods exist but are not dynamically triggered by proximity checks.
